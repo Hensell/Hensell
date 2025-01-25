@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hensell</h1>
 <h3 align="center">A passionate full stack developer from Nicaragua</h3>
 
-- 🌱 I’m currently learning Astro
+- 🌱 I’m currently learning React Native
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
