@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hensell</h1>
 <h3 align="center">A passionate full stack developer from Nicaragua</h3>
 
-- 🚀 Currently building: [NicaFinanzas](https://nicafinanzas.com) and [Quantix Software](https://quantix.software)
+- 🚀 Currently building: [NicaFinanzas](https://nicafinanzas.com)
 - 🔧 I specialize in modern web and mobile development with a focus on performance and UX
 - 🌱 I’m currently learning Android development with Jetpack Compose
 - 💼 I’m open to remote opportunities in Full Stack Development or QA Automation
